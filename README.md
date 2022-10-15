@@ -1,4 +1,4 @@
-# <p style="text-align:center"><font color= "pink"> "Hello! I'm Bavneet" </font></p>
+# <p align="center"><font color="red" "Hello! I'm Bavneet" </font></p>
 ### Hi there 👋
 
 <!--
