@@ -3,7 +3,7 @@
    <img src="https://pronoun.cyou/x/y?subject=She&object=Her&height=20">
 </div>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> More about me:
+###  More about me: <img src="https://i.pinimg.com/originals/81/04/62/810462fed98249d960fb866decca6a42.gif" width="50">
 I am an under-grad student who aspires to become a Full-Stack Web Developer. My somewhat interest in Psychology also makes me curious to explore and persue Artificial Intelligence.  
 
 <p align="right">
