@@ -1,4 +1,4 @@
 <div align="center">
-<h2><img src="http://clipart-library.com/images/8iAb8ykbT.gif" width="60"> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, its Bavneet! </h2>
+<h2><img src="http://clipart-library.com/images/8iAb8ykbT.gif" width="90"> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, its Bavneet! </h2>
 </div>
 
