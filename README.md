@@ -8,11 +8,10 @@ I am an under-grad student who aspires to become a Full-Stack Web Developer. My 
 
   <img  align="right" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="70"><img  align="right" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="70"><img align="right" src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="70"><img  align="right" src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="70"><img align="right" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="70"><img  align="right" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="70"><br>
   
-
--A Student at the Guru Nanak Dev University, Amritsar.
--Do Graphic Designing in the Canva and a little bit of Eerything
--Exploring New Everyday
+- Exploring New Everyday
 - Preparing more professional insight on the way.
+- Computer Science Student at Guru Nanak Dev University,Amritsar.
+- Do Graphic Designing in Canva and a little bit of Everything
 - Looking forward to Cllaborate on Open Source Projects   
 - Other Than Tech, I am a passionate dancer, artist and also interested in theatre and playing instruments.
 <br>
