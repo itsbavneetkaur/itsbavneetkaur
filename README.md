@@ -1,3 +1,4 @@
+# <p align="center"><img width="80%" alt="Hello! I'm Bavneet" src="./assets/gh-readme-header.png" /></a></p>
 ### Hi there 👋
 
 <!--
