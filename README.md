@@ -1,8 +1,6 @@
 <div align="center">
 <img src="http://clipart-library.com/images/8iAb8ykbT.gif" width="200"> <h1>Hi there, I am <a href="https://hemant.codes"> <em>Bavneet</em> </a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
    <img src="https://pronoun.cyou/x/y?subject=She&object=Her&height=20">
-   <img src=" https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="50">
-  
 </div>
 
 ###  More about me: <img src="https://i.pinimg.com/originals/81/04/62/810462fed98249d960fb866decca6a42.gif" width="100">
