@@ -1,4 +1,5 @@
 # <p align="center"><font color="red"> "Hello! I'm Bavneet" </font></p>
+#<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" src="./assets/gh-readme-header.png" /></a></p>
 ### Hi there 👋
 
 <!--
