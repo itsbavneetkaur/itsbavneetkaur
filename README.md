@@ -52,6 +52,6 @@ I am an under-grad student who aspires to become a Full-Stack Web Developer. My 
 
 
 <p align="center">
-        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+        <img src="https://raw.githubusercontent.com/itsbavneetkaur/itsbavneetkaur/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
 
