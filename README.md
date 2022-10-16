@@ -46,11 +46,11 @@ I am an under-grad student who aspires to become a Full-Stack Web Developer. My 
 
 <p align="centre">
 <a align="left" href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=itsbavneetkaur&&show_icons=true&theme=radical"/ width="100">
+    <img  src="https://github-readme-stats.vercel.app/api?username=itsbavneetkaur&&show_icons=true&theme=radical"/ width="400">
   </a>
 
   <a align="right" href="https://github.com/itsbavneetkaur/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://streak-stats.demolab.com/?user=itsbavneetkaur&theme=monokai-metallian&hide_border=true"/  width="100">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://streak-stats.demolab.com/?user=itsbavneetkaur&theme=monokai-metallian&hide_border=true"/  width="400">
   </a></p>
  
 <p align="center"><h3 align="center"> Profile Views : </h3></p>
