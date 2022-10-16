@@ -44,7 +44,7 @@ I am an under-grad student who aspires to become a Full-Stack Web Developer. My 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 
-<p>
+<p align="centre">
 <a align="left" href="https://github.com/anuraghazra/github-readme-stats"> 
     <img  src="https://github-readme-stats.vercel.app/api?username=itsbavneetkaur&&show_icons=true&theme=radical"/>
   </a>
