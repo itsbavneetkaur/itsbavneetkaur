@@ -40,7 +40,7 @@ I am an under-grad student who aspires to become a Full-Stack Web Developer. My 
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://streak-stats.demolab.com/?user=itsbavneetkaur&theme=monokai-metallian&hide_border=true"/>
   </a></p>
  
- <h3> Profile Views : </h3>
+<p align="center"><h3> Profile Views : </h3></p>
  <p align="center"> <img src="https://profile-counter.glitch.me/itsbavneetkaur/count.svg" /> </p>
   <br>
 
