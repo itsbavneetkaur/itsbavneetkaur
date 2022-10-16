@@ -31,3 +31,13 @@ I am an under-grad student who aspires to become a Full-Stack Web Developer. My 
         <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"  height= "25"/></a><br>
 </p>
 
+
+
+
+
+
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
+
