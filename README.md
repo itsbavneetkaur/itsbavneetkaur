@@ -24,7 +24,7 @@ I am an under-grad student who aspires to become a Full-Stack Web Developer. My 
 - Do Graphic Designing in Canva and a little bit of Everything.
 - Exploring New Everyday
 - Preparing more professional insight on the way.
-- Looking forward to Cllaborate on Open Source Projects   
+- Looking forward to collaborate on Open Source Projects   
 - Other Than Tech, I am a passionate dancer, artist and also interested in theatre and playing instruments.<br><br>
 
  <p align="center"><h3>Tools I am learning and work upon : 🛠 </h3></p><br>
