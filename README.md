@@ -17,8 +17,7 @@ I am an under-grad student who aspires to become a Full-Stack Web Developer. My 
 - Looking forward to Cllaborate on Open Source Projects   
 - Other Than Tech, I am a passionate dancer, artist and also interested in theatre and playing instruments.
 
-<p align="center">
-   <h3>Tools I am learning and work upon : </h3></p><br>
+ <p align="center"><h3>Tools I am learning and work upon : </h3></p><br>
  <p align="center"><img align= "center" src= "https://media1.giphy.com/media/M4NykXxUE0HAcK7UJ6/200w.webp?cid=ecf05e47kz0y6ey0y7zz6s4zd0c90cnbx1whgygrc4kprvft&rid=200w.webp&ct=s" width="70"/></p>><br>
    <p align="center">
  <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ac"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white" height= "25"/></a>
