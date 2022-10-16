@@ -33,7 +33,7 @@ I am an under-grad student who aspires to become a Full-Stack Web Developer. My 
 
  <p align="center" >
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=itsbavnetkaur&&show_icons=true&theme=radical"/>
+    <img  src="https://github-readme-stats.vercel.app/api?username=itsbavneetkaur&&show_icons=true&theme=radical"/>
   </a>
 
 </p>
