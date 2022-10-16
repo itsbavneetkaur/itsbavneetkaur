@@ -6,11 +6,10 @@
    
    <p align='center'>
    <a href="https://www.linkedin.com/mwlite/in/bavneet-kaur-5a0624247"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-[<a href="https://twitter.com/8bithemant"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://dev.to/hemant"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/trinnwin"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/spotify.png?raw=true"></a>&nbsp;&nbsp;
- <a href="https://www.coffee.com/hemant"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/coffee.jpg?raw=true"></a>&nbsp;&nbsp;
- </p>]: # 
+<a href="https://www.instagram.com/sania_monga_/"><img height="30" src="https://www.theclassroomkey.com/wp-content/uploads/2018/03/instagram-doodle-icon-color-2.png"></a>&nbsp;&nbsp;
+ <a href="https://wa.me/9914706102"><img src="https://i.pinimg.com/originals/ef/b3/0b/efb30b736c61b33de7a266a40daa7316.png"></a>&nbsp;&nbsp;
+<a href="mailto:bavneetkauroff@gmail.com.io"><img height="30" src="https://th.bing.com/th/id/OIP.9sT4UWsRfFiy6vPydv3_-QHaHO?pid=ImgDet&rs=1"></a>&nbsp;&nbsp;
+   </p>
    
    
 </div>
