@@ -14,7 +14,7 @@
    
 </div>
 
-###  About me: <img src="https://i.pinimg.com/originals/81/04/62/810462fed98249d960fb866decca6a42.gif" width="100">
+###  More about me: <img src="https://i.pinimg.com/originals/81/04/62/810462fed98249d960fb866decca6a42.gif" width="100">
 I am an under-grad student who aspires to become a Full-Stack Web Developer. My somewhat interest in Psychology also makes me curious to explore and persue Artificial Intelligence.  
 
   <img  align="right" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="70"><img  align="right" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="70"><img align="right" src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="70"><img  align="right" src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="70"><img align="right" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="70"><img  align="right" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="70"><br>
@@ -45,11 +45,11 @@ I am an under-grad student who aspires to become a Full-Stack Web Developer. My 
 <br>
 
 <p align="centre">
-<a align="center" href="https://github.com/anuraghazra/github-readme-stats"> 
+<a align="right" href="https://github.com/anuraghazra/github-readme-stats"> 
     <img  src="https://github-readme-stats.vercel.app/api?username=itsbavneetkaur&&show_icons=true&theme=radical"/ width="500">
   </a>
 
-  <a align="center" href="https://github.com/itsbavneetkaur/github-readme-streak-stats">
+  <a align="left" href="https://github.com/itsbavneetkaur/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://streak-stats.demolab.com/?user=itsbavneetkaur&theme=monokai-metallian&hide_border=true"/  width="500">
   </a></p>
  
