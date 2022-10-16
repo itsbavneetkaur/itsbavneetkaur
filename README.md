@@ -37,9 +37,11 @@ I am an under-grad student who aspires to become a Full-Stack Web Developer. My 
   </a>
 </p>
 
-<p align="right">
+<p align="center">
   <a href="https://github.com/itsbavneetkaur/github-readme-streak-stats">
-     </a></p>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=monokai-metallian&hide_border=true"/>
+  </a>
+  </p>
  
   ### Profile Views : 
   <img src="https://profile-counter.glitch.me/cyberbuddy-manas/count.svg" />
