@@ -18,7 +18,7 @@ I am an under-grad student who aspires to become a Full-Stack Web Developer. My 
 - Other Than Tech, I am a passionate dancer, artist and also interested in theatre and playing instruments.
 
 <p  align="right">
-   <h3>Tools I am learning and work upon : <img src= "https://static1.squarespace.com/static/5a3ab2ad90bade9f35107e99/t/5a3bff7d5404e2c4fa605638/1513881469293/1000w/ " width="100">" </h3><br>
+   <h3>Tools I am learning and work upon : <img src= "https://allhacked.com/up/2019/03/hello-world.gif " width="100"> </h3><br>
  <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ac"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white" height= "25"></a>
   <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"  height= "25"></a><br>
      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"  height= "25"></a>
