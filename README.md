@@ -35,9 +35,8 @@ I am an under-grad student who aspires to become a Full-Stack Web Developer. My 
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
     <img  src="https://github-readme-stats.vercel.app/api?username=itsbavneetkaur&&show_icons=true&theme=radical"/>
   </a>
-</p>
 
-<p align="center">
+<p align="right">
   <a href="https://github.com/itsbavneetkaur/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://streak-stats.demolab.com/?user=itsbavneetkaur&theme=monokai-metallian&hide_border=true"/>
   </a></p>
