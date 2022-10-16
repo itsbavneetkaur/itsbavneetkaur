@@ -41,7 +41,7 @@ I am an under-grad student who aspires to become a Full-Stack Web Developer. My 
   </a></p>
  
   ### Profile Views : 
-  <img src="https://profile-counter.glitch.me/cyberbuddy-manas/count.svg" />
+  <img align="center" src="https://profile-counter.glitch.me/cyberbuddy-manas/count.svg" />
   <br>
 
 
