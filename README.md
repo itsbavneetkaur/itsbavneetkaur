@@ -15,7 +15,7 @@ I am an under-grad student who aspires to become a Full-Stack Web Developer. My 
 - Exploring New Everyday
 - Preparing more professional insight on the way.
 - Looking forward to Cllaborate on Open Source Projects   
-- Other Than Tech, I am a passionate dancer, artist and also interested in theatre and playing instruments.<br>
+- Other Than Tech, I am a passionate dancer, artist and also interested in theatre and playing instruments.<br><br>
 
  <p align="center"><h3>Tools I am learning and work upon : 🛠 </h3></p><br>
  <p align="center"><img align= "center" src= "https://media1.giphy.com/media/M4NykXxUE0HAcK7UJ6/200w.webp?cid=ecf05e47kz0y6ey0y7zz6s4zd0c90cnbx1whgygrc4kprvft&rid=200w.webp&ct=s" width="70"/></p>><br>
